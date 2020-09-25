@@ -694,7 +694,7 @@ function spawnDog(x,y,z,theta,scaling, dog_number){
     dog_scene[dog_number][dogClassSpawn.right_leg_top_Id].rotateX(right_top_leg_increment);
     dog_scene[dog_number][dogClassSpawn.left_leg_bottom_Id].rotateX(left_bottom_leg_increment);
     dog_scene[dog_number][dogClassSpawn.right_leg_bottom_Id].rotateX(right_bottom_leg_increment);
-    dog_scene[dog_number][dogClassSpawn.body_Id].translateY(0.0004);          
+    //dog_scene[dog_number][dogClassSpawn.body_Id].translateY(0.0005);          
 
  
 }

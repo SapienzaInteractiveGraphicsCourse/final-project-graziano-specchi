@@ -14,6 +14,7 @@ chicken ). The aim of the player is to scare the foxes by playing the stick
 in order to avoid them entering the fence.
 
 1 - Technologies :
+      
 Three.js;  
 PointerLockControls.js;   
 Tween.js

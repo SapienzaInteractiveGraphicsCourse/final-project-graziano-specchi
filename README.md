@@ -13,14 +13,17 @@ of the fence trying to enter it and to eat the food of the dogs ( a cooked
 chicken ). The aim of the player is to scare the foxes by playing the stick
 in order to avoid them entering the fence.
 
-1 - Technologies :
-      
+1 - Technologies :      
 Three.js;  
 PointerLockControls.js;   
 Tween.js
 
 References:
+
 https://threejs.org/
+
 https://threejsfundamentals.org/
+
 https://github.com/tweenjs/tween.js/blob/master/docs/user_guide.md
+
 https://get.webgl.org/

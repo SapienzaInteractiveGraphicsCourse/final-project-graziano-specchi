@@ -23,14 +23,23 @@ PointerLockControls.js;
 Tween.js
 
 Instructions
+
 W or UP ARROW - move forward
+
 A or LEFT ARROW - move left
+
 S or DOWN ARROW - move backward
+
 D or RIGHT ARROW - move right
+
 SPACE BAR - jump
+
 MOVE MOUSE in order to change direction and look around
+
 LEFT CLICK MOUSE in order to shake the stick
+
 Double ESC to exit
+
 
 References:
 
